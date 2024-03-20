@@ -13,7 +13,7 @@ Hi, I'm @praneshraj1 🚀
 🌐 Simultaneously exploring the world of Frontend Web Development:
 🚀 Creating visually appealing and interactive web experiences.
 💻 Learning the latest technologies like HTML, CSS, and JavaScript.
-🌈 Incorporating cybersecurity concepts into frontend projects.
+    Incorporating cybersecurity concepts into frontend projects.
 💼 Open to collaborations on exciting cybersecurity and frontend web development initiatives.
 
 📚 Always learning and staying updated with the latest trends in both cybersecurity and frontend development.
